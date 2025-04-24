@@ -20,6 +20,25 @@ I made use of [this approach of converting paths to URLs](https://dnmtechs.com/c
 
 When reviewing clipbaord libraries, I found some of the code of [pyperclip](https://github.com/asweigart/pyperclip) informative for implementing wayland functionality.
 
+## Installation
+You can install `clipboard-many-files` using [pipx](https://github.com/pypa/pipx):
+```
+pipx install clipboard-many-files
+```
+
+## Usage
+Two executables are provides `clipboard-many-files` and `cmf`. These do the same thing.
+
+To place files on the clipboard you can run.
+```
+cmf file1.ext file2.ext
+```
+
+You can wish to use a global to place multiple files on the clipboard:
+```
+cmd *.png
+```
+
 ## Caveats
 I wrote and tested this tool on Linux and this is the only operating system supported at the moment. Patches adding support to other operating systems are much appreciated and will be quickly merged.
 
@@ -38,4 +57,4 @@ I also tend to produce a [stream of tools](https://readwithai.substack.com/p/my-
 
 I post about both on [X](https://x.com/readwithai). I write more about reading and research on my [blog](https://readwithai.substack.com/).
 
-[![@readwithai logo](./logo.png)][https://x.com/readwithai]
+[![@readwithai logo](./logo.png)](https://x.com/readwithai)
