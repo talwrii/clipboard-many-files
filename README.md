@@ -32,3 +32,10 @@ You can also support this project by [looking at similar tools that I have creat
 
 
 ## About me
+I am **@readwithai**, I create tools for reading, research and agency, sometimes using [Obsidian](https://readwithai.substack.com/p/what-exactly-is-obsidian).
+
+I also tend to produce a [stream of tools](https://readwithai.substack.com/p/my-productivity-tools) related to my work.
+
+I post about both on [X](https://x.com/readwithai). I write more about reading and research on my [blog](https://readwithai.substack.com/).
+
+[![@readwithai logo](./logo.png)][https://x.com/readwithai]
