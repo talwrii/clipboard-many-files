@@ -5,8 +5,6 @@ import sys
 import urllib.parse
 from pathlib import Path
 
-import klembord
-
 PARSER = argparse.ArgumentParser(description='Place several files on the clipboard')
 PARSER.add_argument('file', nargs="*")
 
